@@ -1,0 +1,16 @@
+@media screen and (min-width: 992px){
+    body{
+        background-color: goldenrod;
+    }
+    
+    main{
+        background-color: white;
+        width: 600px;
+        margin: auto;
+        margin-top: 40px;
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: center;
+        align-items: center;
+    }
+}
