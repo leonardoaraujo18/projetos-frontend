@@ -69,11 +69,11 @@ section.avatar{
 
 section.avatar img{
     margin-left: 20px;
-    width: 10%;
+    width: 13%;
 }
 
 section.avatar span{
     font-weight: bold;
     color: #333;
-    font-size: 16px;
+    font-size: 1.1em;
 }
